@@ -6,7 +6,7 @@
 |3|Christophe-Hughes Briand| 80	| 	|
 |4|Fadi Feghali| 96 | 	|
 |5|Fawzi Guendouz|97| 	|
-|6|Francis Bernier| 	| 	|
+|6|Francis Bernier|97| 	|
 |7|Hugo Claing| 	| 	|
 |8|Jennifer-Kim Garand| 	| 	|
 |9|Julien Green| 	| 	|
