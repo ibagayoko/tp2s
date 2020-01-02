@@ -4,7 +4,7 @@
 |1|Brandon Da Silva Alves| 93 | 	|
 |2|Bun Chhunly Keo| 94 | 	|
 |3|Christophe-Hughes Briand| 80	| 	|
-|4|Fadi Feghali| 	| 	|
+|4|Fadi Feghali| 96 | 	|
 |5|Fawzi Guendouz| 	| 	|
 |6|Francis Bernier| 	| 	|
 |7|Hugo Claing| 	| 	|
