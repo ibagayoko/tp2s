@@ -7,7 +7,7 @@
 |4|Fadi Feghali| 96 | 	|
 |5|Fawzi Guendouz|97| 	|
 |6|Francis Bernier|97| 	|
-|7|Hugo Claing| 	| 	|
+|7|Hugo Claing| 75| 	|
 |8|Jennifer-Kim Garand| 	| 	|
 |9|Julien Green| 	| 	|
 |10|Julien Guité-Vinet| 	| 	|
