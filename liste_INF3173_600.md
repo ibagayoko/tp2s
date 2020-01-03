@@ -8,11 +8,11 @@
 |5|Fawzi Guendouz|97| 	|
 |6|Francis Bernier|97| 	|
 |7|Hugo Claing| 75| 	|
-|8|Jennifer-Kim Garand| 	| 	|
-|9|Julien Green| 	| 	|
-|10|Julien Guité-Vinet| 	| 	|
-|11|Kankoué Patrick Mensah-Zukong| 	| 	|
-|12|Kenny Nguyen| 	| 	|
+|8|Jennifer-Kim Garand| 30	| 	|
+|9|Julien Green **ET** Nicholas Gervais| 77	| 	|
+|10|Julien Guité-Vinet| 95	| 	|
+|11|Kankoué Patrick Mensah-Zukong| 45 | 	|
+|12|Kenny Nguyen **ET** <br/> Simon Guertin  **ET** <br/> Carlos Cortez Linares| 100	| 	|
 |13|Koy Christian Okitapoy| 	| 	|
 |14|Laurent Clavel| 	| 	|
 |15|Maher Kebaier| 	| 	|
