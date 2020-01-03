@@ -20,12 +20,12 @@
 |17|Maxime D. Armstrong (DARM05108906) **ET**<br/> Yanick Marion (MARY22119004)| 100	| 	|
 |18|Michael Capone (CAPM17068409)| 87	| 	|
 |19|Michael Tran| 100	| 	|
-|20|Mohamed El-Amine Chihani| 	| 	|
-|21|Mélanie Boisvert-Langlois| 	| 	|
-|22|Nicolas Odermatt-Lemay| 	| 	|
-|23|Olga Fedorova| 	| 	|
-|24|Oussema Boutaous| 	| 	|
-|25|Patrick Langlois| 	| 	|
+|20|Mohamed El-Amine Chihani(CHIM28059102) **ET**<br/>MAdem Brouri (BROA23089702) **ET** <br />atheus Brum (BRUM15099508)| 95	| 	|
+|21|Melanie Boisvert-Langlois (BOIM19549602) **ET** <br/>Dalila Boussetta (BOUD29579308)| 90| 	|
+|22|Nicolas Odermatt-Lemay **ET** <br/>Olivier McCann ( MCCO12229305)|90 	| 	|
+|23|Olga Fedorova (FEDO27619308) **ET**<br/> Meriam Massek (MASM20529909)| 100	| 	|
+|24|Oussema Boutaous **ET**<br/> Tom Berthiaume| 93	| 	|
+|25|Patrick Langlois (LANP31019208)| 63	| 	|
 |26|Philippe Blanchette| 	| 	|
 |27|Sally Junior Jean Axel Sally| 	| 	|
 |28|Sara Boumehraz| 	| 	|
@@ -33,3 +33,4 @@
 |30|Sofiane Selaoui| 	| 	|
 |31|Sébastien Richer Stebenne| 	| 	|
 |32|Vincent Duarte| 	| 	|
+

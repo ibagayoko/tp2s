@@ -21,3 +21,10 @@ makefile
 *Makefile
 TP2
 _MACOSX/
+
+*.tmp
+main
+resultat
+résultat
+*.o
+tp2/
