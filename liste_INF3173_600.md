@@ -19,7 +19,7 @@
 |16|Mathieu Lafond| 99	| 	|
 |17|Maxime D. Armstrong (DARM05108906) **ET**<br/> Yanick Marion (MARY22119004)| 100	| 	|
 |18|Michael Capone (CAPM17068409)| 87	| 	|
-|19|Michael Tran| 	| 	|
+|19|Michael Tran| 100	| 	|
 |20|Mohamed El-Amine Chihani| 	| 	|
 |21|Mélanie Boisvert-Langlois| 	| 	|
 |22|Nicolas Odermatt-Lemay| 	| 	|
