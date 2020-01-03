@@ -13,12 +13,12 @@
 |10|Julien Guité-Vinet| 95	| 	|
 |11|Kankoué Patrick Mensah-Zukong| 45 | 	|
 |12|Kenny Nguyen **ET** <br/> Simon Guertin  **ET** <br/> Carlos Cortez Linares| 100	| 	|
-|13|Koy Christian Okitapoy| 	| 	|
-|14|Laurent Clavel| 	| 	|
-|15|Maher Kebaier| 	| 	|
-|16|Mathieu Lafond| 	| 	|
-|17|Maxime D.armstrong| 	| 	|
-|18|Michael Capone| 	| 	|
+|13|Koy Christian Okitapoy (OKIK08078702)| 55	| 	|
+|14|Laurent Clavel (CLAL09019807)| 	97 | 	|
+|15|Maher Kebaier| 57	| 	|
+|16|Mathieu Lafond| 99	| 	|
+|17|Maxime D. Armstrong (DARM05108906) **ET**<br/> Yanick Marion (MARY22119004)| 100	| 	|
+|18|Michael Capone (CAPM17068409)| 87	| 	|
 |19|Michael Tran| 	| 	|
 |20|Mohamed El-Amine Chihani| 	| 	|
 |21|Mélanie Boisvert-Langlois| 	| 	|
