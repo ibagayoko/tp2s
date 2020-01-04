@@ -9,7 +9,7 @@ ___________________________________________
 CORRECTION TP2 - INF3173_601 A19
 ========================================
 
-NOTE FINALE :                   /100
+NOTE FINALE :                   25/100
 ----------------------------------------
 
 ### Pénalités (sur la note sur 100) (-) ###
@@ -22,7 +22,7 @@ NOTE FINALE :                   /100
 </pre>
 
 
-### Les philosophe  (-/40) ###
+### Les philosophe  (25/40) ###
 **Explication des pénalités (s'il y a lieu) :**
 <!--METTRE LES COMMENTAIRES SUR LES ERREURS ENTRE LES BALISES PRE-->
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
@@ -37,7 +37,7 @@ NOTE FINALE :                   /100
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
 
 <pre>
-
+Non implementee
 </pre>
 
 
@@ -47,7 +47,7 @@ NOTE FINALE :                   /100
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
 
 <pre>
-
+Non implementee
 </pre>
 
 
@@ -57,7 +57,7 @@ NOTE FINALE :                   /100
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
 
 <pre>
-
+Non implementee
 </pre>
 
 
@@ -67,7 +67,7 @@ NOTE FINALE :                   /100
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
 
 <pre>
-
+Non implementee
 </pre>
 
 
@@ -77,5 +77,5 @@ NOTE FINALE :                   /100
 <!--METTRE UNE LIGNE BLANCHE ENTRE CHAQUE COMMENTAIRE-->
 
 <pre>
-
+Non implementee
 </pre>

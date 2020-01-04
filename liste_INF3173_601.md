@@ -1,9 +1,9 @@
 # Liste INF3173_601
 |  ID | Nom | Note | Commentaires |
 | --- | --- | --- | --- |
-|1|Amadou Diabaté| 	| 	|
+|1|Amadou Diabaté| 25	| 	|
 |2|Andy Ton-That| 	| 	|
-|3|Christian Miville| 	| 	|
+|3|Christian Miville (MIVC28088503) **ET** <br/> Étienne Bousquet (BOUE0303870)| 92	| 	|
 |4|Gabriel Lemée| 	| 	|
 |5|Ghenadie Mocanu| 	| 	|
 |6|Hanieh Torkzadeh| 	| 	|
