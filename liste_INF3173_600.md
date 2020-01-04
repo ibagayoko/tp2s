@@ -26,8 +26,8 @@
 |23|Olga Fedorova (FEDO27619308) **ET**<br/> Meriam Massek (MASM20529909)| 100	| 	|
 |24|Oussema Boutaous **ET**<br/> Tom Berthiaume| 93	| 	|
 |25|Patrick Langlois (LANP31019208)| 63	| 	|
-|26|Philippe Blanchette| 	| 	|
-|27|Sally Junior Jean Axel Sally| 	| 	|
+|26|Philippe Blanchette| 	83 | 	|
+|27|Sally Junior Jean Axel SALLY (SALS20029908) **ET**<br/> Hanen BONDKA (BONH27568208)| 	73| 	|
 |28|Sara Boumehraz| 	| 	|
 |29|Simon Charbonneau| 	| 	|
 |30|Sofiane Selaoui| 	| 	|
