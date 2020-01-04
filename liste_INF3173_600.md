@@ -28,8 +28,8 @@
 |25|Patrick Langlois (LANP31019208)| 63	| 	|
 |26|Philippe Blanchette| 	83 | 	|
 |27|Sally Junior Jean Axel SALLY (SALS20029908) **ET**<br/> Hanen BONDKA (BONH27568208)| 	73| 	|
-|28|Sara Boumehraz| 	| 	|
-|29|Simon Charbonneau| 	| 	|
+|28|Sara Boumehraz (BOUS08568602) **ET** <br/> Imane Mifdal (MIFI23558301)| 86	| 	|
+|29|Simon Charbonneau| 90	| 	|
 |30|Sofiane Selaoui| 	| 	|
 |31|Sébastien Richer Stebenne| 	| 	|
 |32|Vincent Duarte| 	| 	|
