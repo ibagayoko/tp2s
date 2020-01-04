@@ -30,7 +30,7 @@
 |27|Sally Junior Jean Axel SALLY (SALS20029908) **ET**<br/> Hanen BONDKA (BONH27568208)| 	73| 	|
 |28|Sara Boumehraz (BOUS08568602) **ET** <br/> Imane Mifdal (MIFI23558301)| 86	| 	|
 |29|Simon Charbonneau| 90	| 	|
-|30|Sofiane Selaoui| 	| 	|
-|31|Sébastien Richer Stebenne| 	| 	|
-|32|Vincent Duarte| 	| 	|
+|30|Sofiane Selaoui| 97	| 	|
+|31|Sébastien Richer Stebenne| 90	| 	|
+|32|Vincent Duarte| 100	| 	|
 
