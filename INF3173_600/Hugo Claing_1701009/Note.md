@@ -1,5 +1,5 @@
 <pre>
-CODE PERMANENT : 
+CODE PERMANENT : CLAH18029308
 NOM            : Hugo Claing
 COURRIEL       : @courrier.uqam.ca
 </pre>

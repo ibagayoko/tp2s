@@ -1,9 +1,11 @@
 <pre>
-CODE PERMANENT : 
-NOM            : Bun Chhunly Keo
-COURRIEL       : @courrier.uqam.ca
+En groupe
 </pre>
-
+|NOM | CODE PERMANENT| GROUPE|
+|---|---|---|
+|Bun Chhunly Keo | KEOB29119500 | 20|
+|Tharshana Subramaniam | SUBT06589302 |20|
+|Hanieh Torkzadeh | TORH28538209 | 30|
 ___________________________________________
 
 CORRECTION TP2 - INF3173_600 A19

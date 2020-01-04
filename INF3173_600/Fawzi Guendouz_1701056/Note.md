@@ -1,8 +1,10 @@
 <pre>
-CODE PERMANENT : 
-NOM            : Fawzi Guendouz
-COURRIEL       : @courrier.uqam.ca
+En groupe
 </pre>
+|NOM|CODE PERMANENT|
+|---|---|
+|Fawzi Guendouz|GUEF16098509|
+|ABDOULAYE FALL  |FALA08077608|
 
 ___________________________________________
 

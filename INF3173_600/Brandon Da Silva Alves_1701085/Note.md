@@ -1,9 +1,10 @@
 <pre>
-CODE PERMANENT : 
-NOM            : Brandon Da Silva Alves
-COURRIEL       : @courrier.uqam.ca
+En groupe
 </pre>
-
+|NOM|
+|---|
+|Brandon Da Silva Alves|
+|Amara Keita|
 ___________________________________________
 
 CORRECTION TP2 - INF3173_600 A19

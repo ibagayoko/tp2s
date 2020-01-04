@@ -1,9 +1,12 @@
 <pre>
-CODE PERMANENT : 
-NOM            : Francis Bernier
-COURRIEL       : @courrier.uqam.ca
+En groupe
 </pre>
-
+  |NOM|CODE PERMANENT|
+  |---|---|
+  |Francis Bernier |BERF07018003|
+ |Leonardo Hernandez |HERL16027606|
+ |Andy Del Risco Manzanares |DELA12037706|
+   
 ___________________________________________
 
 CORRECTION TP2 - INF3173_600 A19

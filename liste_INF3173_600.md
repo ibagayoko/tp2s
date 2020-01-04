@@ -1,14 +1,15 @@
 # Liste INF3173_600
+Le fichier *Note.md*  présente les commentaire de chaque TP
 |  ID | Nom | Note | Commentaires |
 | --- | --- | --- | --- |
-|1|Brandon Da Silva Alves| 93 | 	|
-|2|Bun Chhunly Keo| 94 | 	|
+|1|Brandon Da Silva Alves **ET** <br/> Amara Keita| 93 | 	|
+|2|Bun Chhunly Keo (KEOB29119500) (groupe 20) **ET** <br/>Tharshana Subramaniam (SUBT06589302) (groupe 20) **ET** <br/>Hanieh Torkzadeh (TORH28538209) (groupe 30)| 94 | 	|
 |3|Christophe-Hughes Briand| 80	| 	|
-|4|Fadi Feghali| 96 | 	|
-|5|Fawzi Guendouz|97| 	|
-|6|Francis Bernier|97| 	|
-|7|Hugo Claing| 75| 	|
-|8|Jennifer-Kim Garand| 30	| 	|
+|4|Fadi Feghali (FEGF07069109)| 96 | 	|
+|5|Fawzi Guendouz(GUEF16098509) **ET** <br/>ABDOULAYE FALL  (FALA08077608)|97| 	|
+|6|Francis Bernier (BERF07018003) **ET**<br/>Leonardo Hernandez (HERL16027606) **ET** <br/>Andy Del Risco Manzanares (DELA12037706)|97| 	|
+|7|Hugo Claing (CLAH18029308)| 75| 	|
+|8|Jennifer-Kim Garand (GARJ07599504)| 30	| 	|
 |9|Julien Green **ET** Nicholas Gervais| 77	| 	|
 |10|Julien Guité-Vinet| 95	| 	|
 |11|Kankoué Patrick Mensah-Zukong| 45 | 	|
