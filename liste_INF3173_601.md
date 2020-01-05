@@ -12,8 +12,8 @@
 |9|Josué-David Torres-Ayala (TORJ16029201)| 71	| 	|
 |10|Lisa Steccy Kaneza| 0	| Pas de TP recu	|
 |11|Louis Marie Cédric Degila| 	76| 	|
-|12|Mohamed Chaouki| 	| 	|
-|13|Olivier Lamarche| 	| 	|
-|14|Rachel Michaud| 	| 	|
+|12|Mohamed Chaouki (CHAM27088802)| 35	| 	|
+|13|Olivier Lamarche(LAMO22029607) **ET** <br/> Frederic Lecours (DOUF30109603) | 87	| 	|
+|14|Rachel Michaud| 76	| 	|
 |15|Sihem Sami| 	| 	|
 |16|Yasmine Kaid| 	| 	|
