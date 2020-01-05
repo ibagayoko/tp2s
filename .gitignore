@@ -36,5 +36,10 @@ __MACOSX
 *.md
 !Note.md
 !liste_INF3173_600.md
+!liste_INF3173_600.pdf
 !liste_INF3173_601.md
+!liste_INF3173_601.pdf
+!./README.md
+
+
 node_modules
