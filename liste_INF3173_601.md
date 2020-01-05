@@ -4,14 +4,14 @@
 |1|Amadou Diabaté| 25	| 	|
 |2|Andy Ton-That| 	| 	|
 |3|Christian Miville (MIVC28088503) **ET** <br/> Étienne Bousquet (BOUE0303870)| 92	| 	|
-|4|Gabriel Lemée| 	| 	|
-|5|Ghenadie Mocanu| 	| 	|
-|6|Hanieh Torkzadeh| 	| 	|
-|7|Iulia Maria Minailiuc| 	| 	|
-|8|Jean Michel Arpin| 	| 	|
-|9|Josué-David Torres-Ayala| 	| 	|
-|10|Lisa Steccy Kaneza| 	| 	|
-|11|Louis Marie Cédric Degila| 	| 	|
+|4|Gabriel Lemée (LEMG25049701)| 95	| 	|
+|5|Ghenadie Mocanu(MOCG07068208) **ET** <br/>Jean-Michel Arpin(ARPJ19078701)  | 60	| 	|
+|6|Bun Chhunly Keo (KEOB29119500) (groupe 20) **ET** <br/>Tharshana Subramaniam (SUBT06589302) (groupe 20) **ET** <br/>Hanieh Torkzadeh (TORH28538209) (groupe 30)| 100 | 	|
+|7|Iulia Maria Minailiuc| 48	| 	|
+|8|Jean Michel Arpin| 60	| 	|
+|9|Josué-David Torres-Ayala (TORJ16029201)| 71	| 	|
+|10|Lisa Steccy Kaneza| 0	| Pas de TP recu	|
+|11|Louis Marie Cédric Degila| 	76| 	|
 |12|Mohamed Chaouki| 	| 	|
 |13|Olivier Lamarche| 	| 	|
 |14|Rachel Michaud| 	| 	|
