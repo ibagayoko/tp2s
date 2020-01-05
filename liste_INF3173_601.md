@@ -2,7 +2,7 @@
 |  ID | Nom | Note | Commentaires |
 | --- | --- | --- | --- |
 |1|Amadou Diabaté| 25	| 	|
-|2|Andy Ton-That| 	| 	|
+|2|Andy Ton-That (TONA08119506)| 66	| 	|
 |3|Christian Miville (MIVC28088503) **ET** <br/> Étienne Bousquet (BOUE0303870)| 92	| 	|
 |4|Gabriel Lemée (LEMG25049701)| 95	| 	|
 |5|Ghenadie Mocanu(MOCG07068208) **ET** <br/>Jean-Michel Arpin(ARPJ19078701)  | 60	| 	|
@@ -15,5 +15,5 @@
 |12|Mohamed Chaouki (CHAM27088802)| 35	| 	|
 |13|Olivier Lamarche(LAMO22029607) **ET** <br/> Frederic Lecours (DOUF30109603) | 87	| 	|
 |14|Rachel Michaud| 76	| 	|
-|15|Sihem Sami| 	| 	|
-|16|Yasmine Kaid| 	| 	|
+|15|SAMI Sihem (SAMS21518208) **ET**<br /> Mahmoudi Abdelkader (MAHA03088000) | 	97| 	|
+|16|Yasmine KAID (KAIY21559708)  **ET** <br/> MONGBO Houefa Orphyse Peggy Merveille (MONH08519906)**ET** <br/> Lisa Steccy Kaneza (KANL30589606) | 97	| 	|
